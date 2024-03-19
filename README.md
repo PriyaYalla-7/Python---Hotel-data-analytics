@@ -1,4 +1,4 @@
-# Python - Hotel_Data_Analytics
+# Python - Hospitality Domain Analytics
  ## Problem Statement
 
 Atliq Grants is a hotel chain which operates in many cities of India. They have different types of hotels such as Atliq Seasons, Atliq Exotica, Atliq Bay, Atliq Palace, and each hotel also has different types of rooms such as Standard, Elite, Premium, Presidential. A person can book a hotel via different mediums such as Atliq Grants' own website and third-party websites such as Make Your Trip, Tripster, etc. The data of all the bookings goes into the bookings database of Atliq. Atliq Grants is facing a major challenge from their competitors. They are losing their revenue and market share. The main objective of this project is to create insights that helps them increase their revenue.
